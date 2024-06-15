@@ -17,5 +17,5 @@ Welcome to **Freescribe**, your go-to transcription service for converting audio
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/freescribe.git
+https://github.com/Awezsk/Free-Scribe-a-Ml-project-in-React.git
 cd freescribe
